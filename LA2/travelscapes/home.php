@@ -372,7 +372,7 @@
 
         <div class="box">
             <h3>contact info</h3>
-            <a href="https://github.com/AtharvaKulkarniIT">GitHub</a>
+            <a href="https://github.com/tanmay-8">GitHub</a>
             <img src="./images/payment.png" alt="">
         </div>
     </div>
